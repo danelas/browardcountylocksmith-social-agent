@@ -63,7 +63,7 @@ export const SERVICES: Service[] = [
     subhead: "Employee turnover? Don't gamble on old keys.",
     bullets: ["Same-day rekeying", "Grade-1 commercial locks", "Key control programs"],
     bgPrompt:
-      "A locksmith's hands servicing a heavy-duty commercial mortise lock on a professional office door, precision tools laid out, clean corporate hallway setting. " + NO_TEXT,
+      "A heavy-duty commercial mortise lock and brushed-steel lever handle installed on a professional office door, clean product-photography style, corporate hallway softly blurred behind. " + NO_TEXT,
     caption:
       "When an employee with keys leaves — on good terms or bad — every copy they ever made still works. That's the security gap most businesses ignore until something goes missing. Rekeying changes the internal pins of your existing locks so old keys stop working immediately, usually for far less than full replacement, and it can be done same-day across an entire office or retail space. Where hardware is worn or under-rated, we upgrade to Grade-1 commercial locks built for thousands of cycles a year. Ask us about restricted keyways too: keys stamped 'do not duplicate' are a suggestion, but a restricted key literally can't be copied at a hardware store.",
     hashtags: ["commercialrekey", "lockchange", "commerciallocksmith", "businesssecurity", "rekey", "officesecurity", "keycontrol"],
