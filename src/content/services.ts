@@ -181,7 +181,7 @@ export const SERVICES: Service[] = [
   // ── COMMERCIAL / ACCESS CONTROL ──────────────────────────────────────────
   {
     id: "door-hardware",
-    headline: ["Commercial Door", "Hardware Install", "& Repair"],
+    headline: ["Door Hardware", "Install & Repair"],
     subhead: "Locks, hinges, pivots, levers — the parts that fail first.",
     bullets: ["Mortise & cylindrical locks", "Continuous hinges & pivots", "ADA lever upgrades"],
     bgPrompt:

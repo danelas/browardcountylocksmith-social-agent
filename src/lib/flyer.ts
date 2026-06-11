@@ -152,11 +152,14 @@ export async function composeFlyer(bgPath: string, outPath: string, spec: FlyerS
   let logoBox = { w: 320, h: 120 };
 
   if (existsSync(LOGO_PATH)) {
+    // Fit inside 360x200: wide logos use full width; square logos cap at
+    // 200px tall so the card doesn't push the bullets into the CALL NOW bar.
     const LOGO_W = 360;
+    const LOGO_MAX_H = 200;
     const PADL = 18;
     const trimmed = await sharp(LOGO_PATH)
       .trim({ threshold: 12 })
-      .resize({ width: LOGO_W })
+      .resize({ width: LOGO_W, height: LOGO_MAX_H, fit: "inside" })
       .toBuffer();
     const tmeta = await sharp(trimmed).metadata();
     const lw = tmeta.width ?? LOGO_W;

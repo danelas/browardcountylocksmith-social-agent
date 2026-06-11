@@ -1,3 +1,6 @@
+// ⚠️ assets/logo.jpg is now Dan's REAL logo — running this script would
+// overwrite it with the SVG recreation. Kept for reference only.
+//
 // One-off: renders the Broward County Locksmith logo (recreated as SVG) to
 // assets/logo.jpg — orange "BROWARD" with a blue keyhole standing in for the
 // O, blue "COUNTY", and an orange letterspaced "LOCKSMITH" with a blue key
