@@ -629,6 +629,51 @@
         },
         "request_id": "44a39200929043ccb9f34286eb11ef76"
       }
+    },
+    {
+      "id": "lost-car-keys-014",
+      "at": "2026-06-15T23:09:51.760Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-15T23:09:45.764Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/2760177318825772784",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKELbfmPr10sbMLg",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 148471,
+            "post_title": "Lost Car Keys & Key Programming",
+            "post_caption": "Lost every key to your car? The dealership route usually means towing the vehicle, ordering a key, and waiting days. A mobile automotive locksmith flips that: we come to your car, cut a new key from the vehicle itself, and program the transponder or smart fob on the spot — same day in most cases. This works even when you have zero working keys, because the immobilizer is programmed directly through the car's diagnostic port. We handle transponder keys, remote fobs, push-to-start smart keys, and laser-cut high-security keys for most makes and models. Pro tip: get a spare made while you still have one working key — it's significantly simpler than an all-keys-lost job, and it means you'll never need this post.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#lostcarkeys #carkeyreplacement #keyfobprogramming #transponderkey #automotivelocksmith #carkeysmadenearme #mobilelocksmith",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "13c951a63b28474e9c7816f189c271ff",
+            "request_id_logs": "13c951a63b28474e9c7816f189c271ff",
+            "job_id": "86022c53c0ed45c797321786582f85d2",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-15T23:09:45.764Z"
+        },
+        "request_id": "13c951a63b28474e9c7816f189c271ff"
+      }
     }
   ]
 }
