@@ -674,6 +674,51 @@
         },
         "request_id": "13c951a63b28474e9c7816f189c271ff"
       }
+    },
+    {
+      "id": "access-control-015",
+      "at": "2026-06-16T15:17:11.675Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-16T15:17:05.658Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/2806427581124052814",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEJCWt-rltf-eFw",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 136277,
+            "post_title": "Access Control Systems",
+            "post_caption": "Still tracking metal keys for every employee? A commercial access control system replaces them with credentials you actually control. Lost fob? Deactivate it in seconds instead of rekeying the building. Need a record of who entered the supply room and when? The audit trail has it. Modern systems let you set door schedules, restrict sensitive areas by role, and manage everything from one dashboard — whether you run a single office or multiple locations. Broward County Locksmith designs, installs, and services access control systems for offices, retail, warehouses, and multi-tenant buildings, and we'll walk your property first so the system fits how your business actually operates.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#accesscontrol #commercialsecurity #accesscontrolsystems #businesssecurity #commerciallocksmith #browardcounty #officesecurity",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "01b5bc9fd12548a78df5ed4677cde84a",
+            "request_id_logs": "01b5bc9fd12548a78df5ed4677cde84a",
+            "job_id": "944ebe815c6d47b884758bae77c555af",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-16T15:17:05.658Z"
+        },
+        "request_id": "01b5bc9fd12548a78df5ed4677cde84a"
+      }
     }
   ]
 }
