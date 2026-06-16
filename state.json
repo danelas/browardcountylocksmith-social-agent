@@ -719,6 +719,51 @@
         },
         "request_id": "01b5bc9fd12548a78df5ed4677cde84a"
       }
+    },
+    {
+      "id": "keycard-fob-016",
+      "at": "2026-06-16T18:52:29.425Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-16T18:52:23.851Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/579586778823082723",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEIuS6a3Jluvycw",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 138484,
+            "post_title": "Keycard & FOB Entry Systems",
+            "post_caption": "Here's the hidden cost of traditional keys: every time an employee leaves without returning one, your only secure option is changing the locks. Keycard and fob entry systems solve that permanently. Each person gets their own credential — a card, a fob, or even their phone — and when someone moves on, you deactivate them with a click while everyone else keeps working. You can also see exactly who used which door and when, which matters for inventory rooms, server closets, and after-hours access. We install and program keycard and fob entry systems for businesses of every size, and we can often integrate with the door hardware you already have.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#keycardentry #fobentry #accesscontrol #commerciallocksmith #keylessentry #businesssecurity #browardbusiness",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "614725c5ccef4360ab052d824469dc1f",
+            "request_id_logs": "614725c5ccef4360ab052d824469dc1f",
+            "job_id": "a4b44fdfe6e0441db2a052f0a29bb476",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-16T18:52:23.851Z"
+        },
+        "request_id": "614725c5ccef4360ab052d824469dc1f"
+      }
     }
   ]
 }
