@@ -944,6 +944,51 @@
         },
         "request_id": "d4f2f52cea7c48d9875367ac288d27af"
       }
+    },
+    {
+      "id": "door-closers-021",
+      "at": "2026-06-18T14:31:37.071Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-18T14:31:31.442Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/6933977872000449222",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEOmv1PvItYyOTA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 147871,
+            "post_title": "Commercial Door Closers",
+            "post_caption": "That office door that slams like a thunderclap — or drifts shut so slowly it never actually latches — is a door closer problem, and it's costing you more than annoyance. A door that doesn't fully latch isn't locked, no matter how good the lock is. A door that slams wears out hinges, cracks glass, and can fail ADA opening-force requirements. Most closers just need professional adjustment of their closing and latching speed; worn ones need replacement matched to the door's weight, width, and traffic. We install, adjust, and replace commercial door closers of every grade, set them to ADA-compliant force, and make sure every door on your property closes — and locks — the way it should.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#doorcloser #commercialdoors #doorhardware #ADAcompliance #commerciallocksmith #facilitymanagement #officesecurity",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "37857f5260f34206a2172d09178aa267",
+            "request_id_logs": "37857f5260f34206a2172d09178aa267",
+            "job_id": "ab5c19be7e01422c93efb5f4e72ecd1d",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-18T14:31:31.442Z"
+        },
+        "request_id": "37857f5260f34206a2172d09178aa267"
+      }
     }
   ]
 }
