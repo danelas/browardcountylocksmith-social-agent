@@ -989,6 +989,51 @@
         },
         "request_id": "37857f5260f34206a2172d09178aa267"
       }
+    },
+    {
+      "id": "residential-lockout-022",
+      "at": "2026-06-18T18:22:09.590Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-18T18:22:03.923Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/3441732993515792605",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKENzc7-iI0PXyLw",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 145980,
+            "post_title": "Locked Out Of Your Home?",
+            "post_caption": "Locked out of the house? Before you climb through a window or try to force the door, know this: most residential lockouts can be opened cleanly by a professional in minutes, with zero damage to your lock or frame. Kicked-in doors and broken windows cost hundreds to repair and leave your home unsecured until they're fixed. We respond around the clock, verify you're the resident, open the door without damage, and can cut spare keys on the spot — or rekey the lock entirely if your keys were lost somewhere they could be traced back to your address. That last part matters more than most people realize: lost keys plus anything with your address on it means rekey, not just re-entry.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#houselockout #lockedout #emergencylocksmith #247locksmith #residentiallocksmith #locksmithnearme #browardcounty",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "fd545f67b60e4cb0a8735bc0b2e2c5cb",
+            "request_id_logs": "fd545f67b60e4cb0a8735bc0b2e2c5cb",
+            "job_id": "444045dc772f48888474c6ac692be9af",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-18T18:22:03.923Z"
+        },
+        "request_id": "fd545f67b60e4cb0a8735bc0b2e2c5cb"
+      }
     }
   ]
 }
