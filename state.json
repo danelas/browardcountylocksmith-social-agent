@@ -1124,6 +1124,51 @@
         },
         "request_id": "6c1c4f11ada642aa8503d302a89d3385"
       }
+    },
+    {
+      "id": "security-upgrades-025",
+      "at": "2026-06-19T18:10:31.990Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-19T18:10:26.140Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/6648838447270314523",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEJiu-rHNn8vPRg",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 151330,
+            "post_title": "Office & Retail Security Upgrades",
+            "post_caption": "Most break-ins aren't sophisticated — they exploit one weak point: a back door with a worn latch, a key that half the former staff still has, glass beside a thumbturn deadbolt, a gate lock that's been 'temporarily' chained for a year. A professional security upgrade starts with walking the property the way an intruder would. From there we layer fixes by priority: high-security cylinders that resist picking and bumping, reinforced strikes that stop kick-ins, restricted keys that can't be copied, and access control where keys no longer make sense. Broward County Locksmith does on-site security assessments for offices, retail, and warehouses and gives you a prioritized plan — not a one-size-fits-all upsell.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#securityupgrade #businesssecurity #highsecuritylocks #commerciallocksmith #retailsecurity #officesecurity #securityaudit",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "9498cc205a24489ea1af3acf02090acf",
+            "request_id_logs": "9498cc205a24489ea1af3acf02090acf",
+            "job_id": "d0c2fa8cb7dc4112a90bf69126ff098b",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-19T18:10:26.140Z"
+        },
+        "request_id": "9498cc205a24489ea1af3acf02090acf"
+      }
     }
   ]
 }
