@@ -1214,6 +1214,51 @@
         },
         "request_id": "2a020714c3af4191a1147130b3db1e29"
       }
+    },
+    {
+      "id": "door-hardware-027",
+      "at": "2026-06-20T14:16:38.026Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-20T14:16:32.171Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/7960915010182051993",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEO7ohPmgjNa2ag",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 154708,
+            "post_title": "Door Hardware Install & Repair",
+            "post_caption": "Commercial doors live a hard life, and the hardware always fails before the door does. A lever that flops, a latch you have to jiggle, a hinge that screeches, a back door that bounces open in the wind — each one is a small failure that compounds into a security hole and, eventually, a door replacement. We install and repair the full range of commercial door hardware: mortise and cylindrical locksets, deadbolts and deadlatches, continuous hinges and pivots for heavy or high-traffic doors, kick plates, flush bolts, and ADA-compliant lever upgrades. Matching the right grade of hardware to a door's traffic is the difference between replacing parts every year and forgetting about that door for a decade. We help you buy once.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#doorhardware #commercialdoors #mortiselock #doorrepair #commerciallocksmith #facilitymaintenance #ADAcompliance",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "abb765b908804f2fae9dd8b7ae6dc59b",
+            "request_id_logs": "abb765b908804f2fae9dd8b7ae6dc59b",
+            "job_id": "06b40595d68949d786063cfc7787dd33",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-20T14:16:32.171Z"
+        },
+        "request_id": "abb765b908804f2fae9dd8b7ae6dc59b"
+      }
     }
   ]
 }
