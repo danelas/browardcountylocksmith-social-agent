@@ -1349,6 +1349,51 @@
         },
         "request_id": "f3a16e09293b4cff8af1eec28cd6be42"
       }
+    },
+    {
+      "id": "access-control-030",
+      "at": "2026-06-21T14:16:59.096Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-21T14:16:53.645Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/1399968527336643668",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEJD-wqWs_YHVDQ",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 137989,
+            "post_title": "Access Control Systems",
+            "post_caption": "Still tracking metal keys for every employee? A commercial access control system replaces them with credentials you actually control. Lost fob? Deactivate it in seconds instead of rekeying the building. Need a record of who entered the supply room and when? The audit trail has it. Modern systems let you set door schedules, restrict sensitive areas by role, and manage everything from one dashboard — whether you run a single office or multiple locations. Broward County Locksmith designs, installs, and services access control systems for offices, retail, warehouses, and multi-tenant buildings, and we'll walk your property first so the system fits how your business actually operates.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#accesscontrol #commercialsecurity #accesscontrolsystems #businesssecurity #commerciallocksmith #browardcounty #officesecurity",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "e0dfae33d7c44616bb2358390872830d",
+            "request_id_logs": "e0dfae33d7c44616bb2358390872830d",
+            "job_id": "9b07dee1ff444a0889dd4a217f831a8b",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-21T14:16:53.645Z"
+        },
+        "request_id": "e0dfae33d7c44616bb2358390872830d"
+      }
     }
   ]
 }
