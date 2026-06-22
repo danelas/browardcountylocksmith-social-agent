@@ -1484,6 +1484,51 @@
         },
         "request_id": "b00068a1be4f45e483cd662f548afe0b"
       }
+    },
+    {
+      "id": "car-lockout-033",
+      "at": "2026-06-22T15:19:06.934Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-22T15:19:01.451Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/2930433958833184479",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEKSu3OT9of-5lwE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 135122,
+            "post_title": "Locked Out Of Your Car?",
+            "post_caption": "Keys locked in the car — or worse, in the trunk with the engine running? Don't reach for a coat hanger. Modern vehicles have side-impact airbags, sensitive wiring, and weather seals along the door frame, and DIY entry attempts routinely turn a quick lockout into a body-shop bill. A professional automotive locksmith uses purpose-made tools to open your vehicle without damage, usually in minutes. Broward County Locksmith handles car lockouts for virtually all makes and models — sedans, trucks, EVs — and we come to you: parking garage, office lot, driveway, or roadside. Save our number before you need it; lockouts never happen at a convenient time.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#carlockout #lockedout #automotivelocksmith #emergencylocksmith #locksmithnearme #browardcounty #mobilelocksmith",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "8577c33eba3943c28a9d6895893cf117",
+            "request_id_logs": "8577c33eba3943c28a9d6895893cf117",
+            "job_id": "1bece5a7b4104b66bd5d3fd06f902637",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-22T15:19:01.451Z"
+        },
+        "request_id": "8577c33eba3943c28a9d6895893cf117"
+      }
     }
   ]
 }
