@@ -1574,6 +1574,51 @@
         },
         "request_id": "e6849d165e024173ab50c292b523b440"
       }
+    },
+    {
+      "id": "panic-bars-035",
+      "at": "2026-06-22T23:02:18.989Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-22T23:02:13.413Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/2604397491450892078",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEPnx2fDRj66YlgE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 137173,
+            "post_title": "Panic Bars & Exit Devices",
+            "post_caption": "Panic bars aren't optional hardware — on most commercial occupancies, fire and life-safety codes require single-motion egress so people can get out in an emergency even in the dark, with their hands full, or in a crowd. But a failing exit device cuts both ways: it can trap occupants during an inspection-failing emergency, or swing the other direction and leave your back door effectively unlocked all night. We install, repair, and replace panic bars and exit devices, set up alarmed versions that deter employees from propping doors, and pair them with outside trim so staff can still enter with a key or credential. If your push bar sticks, sags, or needs a hip-check to latch, get it serviced before the fire marshal — or a burglar — finds it first.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#panicbar #exitdevice #commercialdoors #firecode #lifesafety #commerciallocksmith #businesssecurity",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "2b7b51f3875844358b2f5225ba10fad7",
+            "request_id_logs": "2b7b51f3875844358b2f5225ba10fad7",
+            "job_id": "3802e3db088540d4ad346be5076b15ae",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-22T23:02:13.413Z"
+        },
+        "request_id": "2b7b51f3875844358b2f5225ba10fad7"
+      }
     }
   ]
 }
