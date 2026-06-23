@@ -1709,6 +1709,51 @@
         },
         "request_id": "52192dd5e01c4dbc9af9e7cb1b3addf6"
       }
+    },
+    {
+      "id": "storefront-doors-038",
+      "at": "2026-06-23T22:53:41.933Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-23T22:53:36.153Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/1149643199894934502",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEOPkvtbXzKCXdg",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 157513,
+            "post_title": "Storefront Door Repair & Adjustment",
+            "post_caption": "Aluminum storefront doors take a beating — hundreds of open-close cycles a day, every day. Eventually the pivots wear, the door drops, the hookbolt stops lining up with the strike, and your staff starts doing the lift-and-slam ritual just to lock up at night. Left alone, a misaligned storefront door damages its own frame, fails to latch (read: unlocked all night), and tells every passing burglar the maintenance is behind. We specialize in storefront door repair: pivots and hinges, commercial deadlatches and hookbolt locks, push-pull hardware, closer adjustment, and realignment — usually same visit. If your front door grinds, drags, or needs a shoulder to close, have it fixed before it becomes a replacement.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#storefrontdoor #doorrepair #commercialdoors #retailsecurity #commerciallocksmith #storefrontrepair #smallbusiness",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "89539276dc2f4edf9f4958338748fb87",
+            "request_id_logs": "89539276dc2f4edf9f4958338748fb87",
+            "job_id": "570241a1dde34856b8d5079a70e60812",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-23T22:53:36.153Z"
+        },
+        "request_id": "89539276dc2f4edf9f4958338748fb87"
+      }
     }
   ]
 }
