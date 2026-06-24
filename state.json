@@ -1754,6 +1754,51 @@
         },
         "request_id": "89539276dc2f4edf9f4958338748fb87"
       }
+    },
+    {
+      "id": "electric-strikes-039",
+      "at": "2026-06-24T14:18:47.854Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-24T14:18:42.448Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/8911818055445133698",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEIvU3P3hyYjcIA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 140315,
+            "post_title": "Electric Strikes & Mag Locks",
+            "post_caption": "Want the receptionist to buzz visitors in? Need a lobby door that locks automatically but releases instantly during a fire alarm? That's electric strike and maglock territory — and choosing between them is where businesses get it wrong. An electric strike releases the latch and works with your existing lockset; a magnetic lock holds the door with sheer force and needs a code-compliant release path (motion sensor, push-to-exit, fire-alarm tie-in) to be legal. Fail-safe vs. fail-secure matters too: one unlocks when power drops, the other stays locked. We install and wire electric strikes and mag locks correctly, integrate them with intercoms, video doorbells, and access control, and make sure the result passes inspection instead of failing it.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#electricstrike #maglock #accesscontrol #buzzinentry #commercialsecurity #commerciallocksmith #officesecurity",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "3f8bfee4362d467b9ece3cdec07e5d9c",
+            "request_id_logs": "3f8bfee4362d467b9ece3cdec07e5d9c",
+            "job_id": "3dc2c842cc04430784821ea4f13317da",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-24T14:18:42.448Z"
+        },
+        "request_id": "3f8bfee4362d467b9ece3cdec07e5d9c"
+      }
     }
   ]
 }
