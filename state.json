@@ -1934,6 +1934,51 @@
         },
         "request_id": "be2a98a6196e469a95094cd35ecd950d"
       }
+    },
+    {
+      "id": "property-management-043",
+      "at": "2026-06-25T18:18:57.225Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-25T18:18:51.285Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/1481462717608964934",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEPTwovHn2fb9bA",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 187673,
+            "post_title": "Property Management Security Solutions",
+            "post_caption": "If you manage properties, locks are a recurring line item, not a one-time fix: every move-out is a rekey, every common door takes constant traffic, and every contractor, cleaner, and leasing agent needs the right access without getting the master. The fix is structural — a properly designed master key system with restricted keyways, mailbox and common-area hardware standardized across units, access control on amenity spaces, and a locksmith partner who keeps records of what's keyed how. Broward County Locksmith works with property managers and landlords on multi-unit buildings, HOAs, and commercial plazas: turnover rekeys on your schedule, emergency response for tenant lockouts, and maintenance plans that catch failing closers and exit devices before tenants complain. One call, every door, documented.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#propertymanagement #propertymanager #masterkeysystem #tenantturnover #commerciallocksmith #HOAmanagement #multifamily",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "0abfbf3a993f46459f1d7dc3d23850dc",
+            "request_id_logs": "0abfbf3a993f46459f1d7dc3d23850dc",
+            "job_id": "e0e2874a918c440cbbeccbee546a250f",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-25T18:18:51.285Z"
+        },
+        "request_id": "0abfbf3a993f46459f1d7dc3d23850dc"
+      }
     }
   ]
 }
