@@ -2114,6 +2114,51 @@
         },
         "request_id": "714ad43a085340b1a5cf97a2307609b8"
       }
+    },
+    {
+      "id": "commercial-rekey-047",
+      "at": "2026-06-26T22:53:34.762Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-26T22:53:28.703Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/7718307438186904471",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEMSCrruLsdDUzgE",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 135994,
+            "post_title": "Commercial Lock Changes & Rekeys",
+            "post_caption": "When an employee with keys leaves — on good terms or bad — every copy they ever made still works. That's the security gap most businesses ignore until something goes missing. Rekeying changes the internal pins of your existing locks so old keys stop working immediately, usually for far less than full replacement, and it can be done same-day across an entire office or retail space. Where hardware is worn or under-rated, we upgrade to Grade-1 commercial locks built for thousands of cycles a year. Ask us about restricted keyways too: keys stamped 'do not duplicate' are a suggestion, but a restricted key literally can't be copied at a hardware store.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#commercialrekey #lockchange #commerciallocksmith #businesssecurity #rekey #officesecurity #keycontrol",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "5543956a561145fab929e73aedc40001",
+            "request_id_logs": "5543956a561145fab929e73aedc40001",
+            "job_id": "a7a2eec6d8094db8bd8d6a92c82bd5bc",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-26T22:53:28.703Z"
+        },
+        "request_id": "5543956a561145fab929e73aedc40001"
+      }
     }
   ]
 }
