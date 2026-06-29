@@ -2519,6 +2519,51 @@
         },
         "request_id": "22b2cf5d47be43749b95a837e2e95b54"
       }
+    },
+    {
+      "id": "commercial-lockout-056",
+      "at": "2026-06-29T22:48:53.125Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-06-29T22:48:47.028Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/8178224850661005804",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEOnhwZTfwcm0Jg",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 144742,
+            "post_title": "Commercial Lockout Service",
+            "post_caption": "A commercial lockout isn't just an inconvenience — it's employees standing in the parking lot, deliveries missed, and customers walking to a competitor. It happens more ways than you'd think: the only keyholder is on vacation, a manager left with the keys, a high-traffic lock finally jams, or an electronic lock's battery dies at 7 a.m. We prioritize business lockouts and open commercial doors damage-free — mortise locks, storefront deadlatches, high-security cylinders, and electronic hardware included. While we're there, we can cut backup keys, rekey if a key walked off with a former employee, and fix whatever caused the failure so it doesn't repeat next quarter. One call gets you back to business.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#commerciallockout #businesslockout #emergencylocksmith #commerciallocksmith #lockedout #browardbusiness #locksmithnearme",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "06e8a216986a4fbab210e8f7c6d226ff",
+            "request_id_logs": "06e8a216986a4fbab210e8f7c6d226ff",
+            "job_id": "f95268fcff474abb886439a9caf96938",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-06-29T22:48:47.028Z"
+        },
+        "request_id": "06e8a216986a4fbab210e8f7c6d226ff"
+      }
     }
   ]
 }
