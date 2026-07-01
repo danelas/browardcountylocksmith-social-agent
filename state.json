@@ -2699,6 +2699,51 @@
         },
         "request_id": "d903226aa54647ef951badca6c22fed2"
       }
+    },
+    {
+      "id": "access-control-060",
+      "at": "2026-07-01T14:18:39.549Z",
+      "result": {
+        "status": "completed",
+        "completed": 1,
+        "total": 1,
+        "results": [
+          {
+            "user_email": "clothingworldllc@gmail.com",
+            "profile_username": "browardcountylocksmith",
+            "platform": "google_business",
+            "media_type": "photo",
+            "upload_timestamp": {
+              "$date": "2026-07-01T14:18:33.709Z"
+            },
+            "success": true,
+            "platform_post_id": "accounts/109197818660398714741/locations/13622987317405453242/localPosts/333723026143608258",
+            "post_url": "https://local.google.com/place?id=16359181156532109071&use=posts&lpsid=CIHM0ogKEJ3Ei6qwhrS3Dw",
+            "error_message": null,
+            "error_signature": null,
+            "error_code": null,
+            "failure_stage": null,
+            "media_size_bytes": 131307,
+            "post_title": "Access Control Systems",
+            "post_caption": "Still tracking metal keys for every employee? A commercial access control system replaces them with credentials you actually control. Lost fob? Deactivate it in seconds instead of rekeying the building. Need a record of who entered the supply room and when? The audit trail has it. Modern systems let you set door schedules, restrict sensitive areas by role, and manage everything from one dashboard — whether you run a single office or multiple locations. Broward County Locksmith designs, installs, and services access control systems for offices, retail, warehouses, and multi-tenant buildings, and we'll walk your property first so the system fits how your business actually operates.\r\n\r\n📞 (954) 888-8800 · FREE service call with any job — mention BROWARD25\r\n\r\n#accesscontrol #commercialsecurity #accesscontrolsystems #businesssecurity #commerciallocksmith #browardcounty #officesecurity",
+            "is_async": true,
+            "dashboard": false,
+            "source": "api",
+            "video_was_transcoded": null,
+            "changes": null,
+            "prevalidation_metadata": null,
+            "target_linkedin_page_id": null,
+            "request_id": "39a01aa6acc44aaa9690d33b10221c05",
+            "request_id_logs": "39a01aa6acc44aaa9690d33b10221c05",
+            "job_id": "05225edac855408d95aa79c5cfdf4dcd",
+            "request_total_platforms": 1
+          }
+        ],
+        "last_update": {
+          "$date": "2026-07-01T14:18:33.709Z"
+        },
+        "request_id": "39a01aa6acc44aaa9690d33b10221c05"
+      }
     }
   ]
 }
